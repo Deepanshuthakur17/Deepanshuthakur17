@@ -11,18 +11,16 @@
   Based in India 🇮🇳, I love transforming ideas into performant, accessible web applications.
 </p>
 
+
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack
 
-| Category            | Tools & Technologies                            |
-|---------------------|-------------------------------------------------|
-| Framework           | Next.js                                          |
-| Language            | TypeScript                                       |
-| Styling             | Tailwind CSS                                     |
-| UI / Design         | Responsive layouts, Dark/Light themes            |
-| Version Control     | Git & GitHub                                     |
-| Deployment          | Vercel                                           |
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,ts,c,vercel,nodejs,vscode)](https://skillicons.dev)
+
+## 🛠 Future Tech Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,threejs)](https://skillicons.dev)
 
 ---
 
@@ -60,9 +58,9 @@ Here are some highlighted works from my portfolio:
 ## 🌟 Want to Connect?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-thakur-1ab5a4330" target="_blank">💼 LinkedIn</a> |
-  <a href="https://github.com/Deepanshuthakur17" target="_blank">🐙 GitHub</a> |
-  <a href="mailto:hello@invsto.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/deepanshu-thakur-1ab5a4330" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Deepanshuthakur17" target="_blank"> <img src="https://skillicons.dev/icons?i=github" /> </a>
+  <a href="deepanshuthakur172006@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
 </p>
 
 > “Every project is a new opportunity to learn, refine and deliver better digital experiences.”  
