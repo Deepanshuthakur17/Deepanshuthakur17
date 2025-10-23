@@ -60,7 +60,7 @@ Here are some highlighted works from my portfolio:
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-thakur-1ab5a4330" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Deepanshuthakur17" target="_blank"> <img src="https://skillicons.dev/icons?i=github" /> </a>
-  <a href="deepanshuthakur172006@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
+  <a href="https://deepanshuthakur172006@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
 </p>
 
 > “Every project is a new opportunity to learn, refine and deliver better digital experiences.”  
